@@ -3,7 +3,6 @@ import React from "react"
 import {
   FaTwitter as Twitter,
   FaGithub as Github,
-  FaInstagram as Insta,
   FaEnvelope as Mail,
 } from "react-icons/fa"
 
