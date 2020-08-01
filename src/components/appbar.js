@@ -9,7 +9,7 @@ export default function Appbar() {
           <Intent to="/">Home</Intent>
         </li>
         <li className="nav-item mx-4">
-          <Intent to="https://phyxkal.netlify.app/">Personal Blog</Intent>
+          <Intent to="https://phyxkal.com/">Personal Blog</Intent>
         </li>
       </ul>
     </div>
