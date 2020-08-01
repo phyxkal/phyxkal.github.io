@@ -28,7 +28,7 @@ export default function info() {
         <a className="mr-5 icon" href="https://github.com/phyxkal">
           <Github />
         </a>
-        <a className="mr-5 icon" href="mailto://haikalvidya@gmail.com">
+        <a className="mr-5 icon" href="mailto:me@phyxkal.com">
           <Mail />
         </a>
       </div>
